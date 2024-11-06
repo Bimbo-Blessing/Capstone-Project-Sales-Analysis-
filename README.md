@@ -39,10 +39,34 @@ South: N927,820
 
 West: N300,345
 
-Avearge Sales: 211.78
+Average Sales: 211.78
 
 Highest Selling Product: 
 Shoes  N613,380
+
+## Methodology
+
+### Data Collection
+The dataset for this analysis was providedby the Incubator hub-LITA, an organisationthat supplies educational datasets for learning and training purposes.
+
+## Data Manipulation
+
+Data cleaning:  Ensured data quality by removingduplicates entries.
+
+Month: Extracted the months from the Order Date column.
+
+## Tools Used 
+
+Microsoft Excel
+
+SQL
+
+Power BI
+
+## Dashboard Overview
+
+
+
 
 
 
