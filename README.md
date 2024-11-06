@@ -8,11 +8,11 @@ This project presents the sales performance of a retail store showing the top se
 ## Data Description
 The dataset include the following fields:
 
-*Order ID: This is the identity number for each of the products.
+Order ID: This is the identity number for each of the products.
 
-*Customer ID: This is the identity number for each of the customers.
+Customer ID: This is the identity number for each of the customers.
 
-*Product: This shows the lists of the items sold; Shirt, Shoes, Hat,  Socks, Jacket and Gloves.
+Product: This shows the lists of the items sold; Shirt, Shoes, Hat,  Socks, Jacket and Gloves.
 
 Region: This shows the region in which each product was sold which are; North, South, East and West.
 
@@ -23,3 +23,18 @@ Quantity: This column shows the quantity of each produst sold in a day.
 Unit Price: This column shows the selling price for each of the products.
 
 Total Sales: This column shows the sales of each of the products by multiplying Quantity by Unit Price.
+
+
+## Basic Statistics About The Dataset
+
+Total Sales: N2,101,090
+
+Total Sales By Region
+
+East: N485,925
+North: N387,000
+South: N927,820
+West: N300,345
+
+
+
