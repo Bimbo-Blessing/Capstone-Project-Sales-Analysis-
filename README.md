@@ -32,9 +32,18 @@ Total Sales: N2,101,090
 Total Sales By Region
 
 East: N485,925
+
 North: N387,000
+
 South: N927,820
+
 West: N300,345
+
+Avearge Sales: 211.78
+
+Highest Selling Product: 
+Shoes  N613,380
+
 
 
 
