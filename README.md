@@ -75,6 +75,6 @@ Power BI
 
 ## Data Analysis And Insight Generation
 
-- The Region with the highest sales is the South
+- The Region with the highest sales is the South with a total of N927,820
 
 - The highest selling product is shoes with a total sales of N613,380.
