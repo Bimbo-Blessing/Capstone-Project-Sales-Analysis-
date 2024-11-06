@@ -1,6 +1,7 @@
 # Capstone-Project-Sales-Analysis-
 
-Introduction
+
+##Introduction
 
 This project presents the sales performance of a retail store showing the top selling products, regional perfomance and monthly sales trends between Jan 2023 - Aug 2024.
 
