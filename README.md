@@ -4,6 +4,7 @@
 ## Introduction
 
 This project presents the sales performance of a retail store showing the top selling products, regional perfomance and monthly sales trends between Jan 2023 - Aug 2024.
+
 [ Data Description](#data-description)
 
 [ Basic Statistics About The Dataset](#basic-sattistics-about-the-dataset)
@@ -12,7 +13,7 @@ This project presents the sales performance of a retail store showing the top se
 
 [Data Collection](#data-collection)
 
-[ Data Manipulation](#data manipulation)
+[ Data Manipulation](#data-manipulation)
 
 [Tools Used ](#tools-used)
 
