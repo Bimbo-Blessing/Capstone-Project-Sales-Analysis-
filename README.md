@@ -25,9 +25,9 @@ This project presents the sales performance of a retail store showing the top se
 ## Data Description
 The dataset include the following fields:
 
-Order ID: This is the identity number for each of the products.
+Order ID: This is the unique identifier for each of the products.
 
-Customer ID: This is the identity number for each of the customers.
+Customer ID: This is the unique identifier for each of the customers.
 
 Product: This shows the lists of the items sold; Shirt, Shoes, Hat,  Socks, Jacket and Gloves.
 
