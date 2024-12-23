@@ -100,6 +100,7 @@ Power BI
    Year 2023= N1,105,330, 
    Year 2024(Jan – Aug) = N 995,760
 - The average sales was N 211.78, while the total quantity sold was 68,461. The breakdown is as follows:
+  
 Gloves = 12,369, which equals 14.13% of the Total Sales
 
 Hat= 15,929, which equals 15.05% of the Total Sales
@@ -112,9 +113,9 @@ Shoes = 14,402, which equals 29.19% of the Total Sales
 
 Socks = 7,921, which equals 8.60% of the Total Sales
 
-	-Though, Hat has the highest quantity that was sold (15,929) with a total revenue of N316,195, while the quantity of shoes sold was 14,402 and it has the highest revenue of N613,380 out of the six products.
+	Though, Hat has the highest quantity that was sold (15,929) with a total revenue of N316,195, while the quantity of shoes sold was 14,402 and it has the highest revenue of N613,380 out of the six products.
 	Out of the four Regions, the West has the lowest total revenue of N300,345, followed by the North with a total revenue of N387,000.
-	- In the fourth(last) quarter of 2023, only three out of the six products had sales from the following Regions:
+	 In the fourth(last) quarter of 2023, only three out of the six products had sales from the following Regions:
  
 Gloves = N49,300 (West)
 
@@ -124,7 +125,7 @@ Socks = N133,920 (South)
 
 This means that there were no sales for Shoes, Shirts and Hat.
 
-	- In the third quarter of 2024, the sales go thus:
+	 In the third quarter of 2024, the sales go thus:
 Hat = N174,300 (West)
 
 Shoes = N37,200 (East)
