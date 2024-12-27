@@ -132,3 +132,18 @@ Shoes = N37,200 (East)
 
 This means there was no sales for Shirt, Gloves, Jacket and Socks.
 
+## RECOMMENDATIONS
+1.	The company should improve on their marketing strategy in order to boost the sales of these products: Socks and Jacket, which was 9.91% and 8.60% of the total sales.
+2.	The company can engage in sales promotion in order to attract new customers and also to retain existing customers.
+3.	There should be free flow of communication from the head office to all the branches in all regions and vice versa, so that there will be quick restock even before it is exhausted, in order to prevent a recurrence of ‘No Sales’ in the third quarter of the year.
+4.	The company can also repackage their products.
+
+
+## CONCLUSION
+- The company should engage in sales promotion frequently in order to boost sales, improve on staff welfare to promote efficiency and cooperation.
+
+
+
+
+
+
