@@ -21,6 +21,10 @@ This project presents the sales performance of a retail store showing the top se
 
 [Data Analysis And Insight Generation](#data-analysis-and-insight-generation)
 
+[Recommendations](#Recommendations)
+
+[Conclusion](#Conclusion)
+
 
 ## Data Description
 The dataset include the following fields:
